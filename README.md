@@ -1,5 +1,6 @@
 ### Hi there 👋👋👋
-🤔 lol, my readme.. content coming soon :)  
+I'm a software engineer, currently focused on the frontend side of the web. 
+Not afraid of complex tasks, open to new technologies :)  
 
 
 [![Years Badge](https://badges.pufler.dev/years/martiiian)](https://badges.pufler.dev)
